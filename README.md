@@ -11,8 +11,8 @@ Build the Docker
 ---------------
 ```sh
 git clone https://github.com/Williangalvani/QGC-Android-Arm-Docker.git
-git submodule update --init --recursive
 cd QGC-Android-Arm-Docker
+git submodule update --init --recursive
 docker build -f 5.12-android_armv7.Dockerfile .
 ```
 
