@@ -1,3 +1,0 @@
-[submodule "3rdparty/qtci"]
-	path = 3rdparty/qtci
-	url = https://github.com/benlau/qtci.git
