@@ -19,7 +19,7 @@ docker build -f 5.12-android_armv7.Dockerfile .
 Android example
 ---------------
 
-`docker run -it --rm williangalvani/docker-qt:5.12-android_armv7`
+`docker run -it williangalvani/docker-qt:5.12-android_armv7`
 
 ```sh
 ./build-qgc.sh
