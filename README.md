@@ -19,6 +19,3 @@ docker build -f 5.12-android_armv7.Dockerfile .
 Usage
 ----------
 check the instructions at [DockerHub](https://hub.docker.com/r/williangalvani/qgc-android-build)
-
-
-When it is done, `exit` and then copy the on-screen command to copy the apk to the current folder.
