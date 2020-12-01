@@ -16,12 +16,9 @@ git submodule update --init --recursive
 docker build -f 5.12-android_armv7.Dockerfile .
 ```
 
-Android example
----------------
+Usage
+----------
+check the instructions at [DockerHub](https://hub.docker.com/r/williangalvani/qgc-android-build)
 
-`docker run -it williangalvani/docker-qt:5.12-android_armv7`
 
-```sh
-./build-qgc.sh
-```
 When it is done, `exit` and then copy the on-screen command to copy the apk to the current folder.
